@@ -21,15 +21,3 @@
   <a href="https://www.linkedin.com/in/danilo-marques-a67483201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Danilomarques02&show_icons=false&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Danilomarques02&show_icons=false"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Danilomarques02&show_icons=false" />
-</picture>
-
