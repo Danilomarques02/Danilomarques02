@@ -1,4 +1,5 @@
-### Olá! eu sou Danilo Marques
+### Olá! eu sou **Danilo Marques**
+***
 
 - 🔭 Front-end...
 - 🌱 Estudando javascript...
