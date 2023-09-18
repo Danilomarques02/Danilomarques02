@@ -2,7 +2,7 @@
 ***
 
 - 🔭 Front-end.
-- 🌱 Estudando javascript.
+- 🌱 Estudado C#.
 - 💬 "O sucesso é o acúmulo de pequenos esforços, repetidos dia após dia."
 
 <div style="display: inline_block"><br>
